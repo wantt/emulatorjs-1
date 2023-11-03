@@ -19,8 +19,8 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: ftp.infinityfree.com
+        server: ftpupload.net
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir:   /public_html/alphaflightsim.kesug.com/
+        server-dir:   /htdocs/alphaflightsim.kesug.com/
         
