@@ -21,4 +21,4 @@ jobs:
         server: ftpupload.net
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir:   /public_html/alphaflightsim.kesug.com/
+        server-dir:   /htdocs/alphaflightsim.kesug.com/
