@@ -1,1 +1,1 @@
-[https://longhai.github.io/emulatorjs](https://longhai.github.io/emulatorjs)
+https://msduvert08.github.io/emulatorjs/
